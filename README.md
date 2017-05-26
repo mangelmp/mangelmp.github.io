@@ -1,10 +1,10 @@
-﻿## Entrada de Bienvenida
+﻿# Entrada de Bienvenida
 
 Soy Miguel Ángel y puedes consultar mi página en [este enlace](https://cienciaintravenosa.wordress.com) si te interesa la divulgación científica.
 
 Estoy aprendiendo a escribir en **Markdown**
 
-### Curso de *Darwin Eventur*:
+## Curso de *Darwin Eventur*:
 
 En este curso hemos aprendido a usar distintos programas y lenguajes de programación:
 
