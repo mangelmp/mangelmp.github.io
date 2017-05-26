@@ -2,9 +2,9 @@
 
 Soy Miguel Ángel y puedes consultar mi página en [este enlace](https://cienciaintravenosa.wordress.com) si te interesa la divulgación científica.
 
-Estoy aprendiendo a escribir en *Markdown*
+Estoy aprendiendo a escribir en **Markdown**
 
-### Curso de **Darwin Eventur**:
+### Curso de *Darwin Eventur*:
 
 En este curso hemos aprendido a usar distintos programas y lenguajes de programación:
 
@@ -15,16 +15,5 @@ En este curso hemos aprendido a usar distintos programas y lenguajes de programa
 	1. Git
 	1. Github
 
-Voy a intentar poner imégenes
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
+En esta imagen aparece mi lugar de trabajo
+![Universidad de Granada](http://www.vectorlogo.es/wp-content/uploads/2014/12/logo-vector-universidad-de-granada-institucional.jpg)
