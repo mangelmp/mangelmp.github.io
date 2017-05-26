@@ -1,4 +1,5 @@
-﻿# Entrada de Bienvenida
+﻿
+# Entrada de Bienvenida
 
 Soy Miguel Ángel y puedes consultar mi página en [este enlace](https://cienciaintravenosa.wordress.com) si te interesa la divulgación científica.
 
@@ -17,3 +18,7 @@ En este curso hemos aprendido a usar distintos programas y lenguajes de programa
 
 En esta imagen aparece mi lugar de trabajo
 ![Universidad de Granada](http://www.vectorlogo.es/wp-content/uploads/2014/12/logo-vector-universidad-de-granada-institucional.jpg)
+
+### Tablas en *Markdown*:
+
+|
